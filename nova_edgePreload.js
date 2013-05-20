@@ -67,4 +67,4 @@ dlContent={dom: [
 ]}
 ;//simpleContent
 
-})( "EDGE-218128157");
+})( "nova");

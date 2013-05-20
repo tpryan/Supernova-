@@ -1,18 +1,18 @@
 {
 
 	"HTMLFileName":"nova.html",
-	"pref__general__AutoKeyframeProperties":"false",
+	"PubUseChromeFrameInstaller":"false",
 	"ModelData":"{\
 \"stage\": {\
    \"timelines\": {\
       \"Default Timeline\": {\
             \"ElementKeyframes\": {\
-                \"${_Hydrogen}\": [], \
+                \"${_Iron}\": [], \
                 \"${__12Text}\": [], \
                 \"${__4Text}\": [], \
                 \"${_Silicon}\": [], \
                 \"${_Neutron}\": [], \
-                \"${__3Text}\": [], \
+                \"${__8Text}\": [], \
                 \"${_Oxygen}\": [], \
                 \"${__6Text}\": [], \
                 \"${__7Text}\": [], \
@@ -23,9 +23,9 @@
                 \"${__10Text}\": [], \
                 \"${_Carbon}\": [], \
                 \"${__2Text}\": [], \
-                \"${__8Text}\": [], \
+                \"${__3Text}\": [], \
                 \"${_Stage}\": [], \
-                \"${_Iron}\": [], \
+                \"${_Hydrogen}\": [], \
                 \"${__1Text}\": [], \
                 \"${__11Text}\": []\
             }\
@@ -41,6 +41,7 @@
    }}\
 }",
 	"pref__general__FilterNonAnimatedElements":"false",
+	"viewStartMs":"19701.943503725",
 	"pref__general__AutoKeyframePropertiesArmed":"true",
 	"symbol_stage":{
 		"element_${_Carbon}":{
@@ -49,12 +50,7 @@
 			"timelineColor":"0x00bda4",
 			"timelineTreeOpened":"false",
 			"animationEnabled":"true"},
-		"element_${_Neon}":{
-			"timelineColor2":"0x168c84",
-			"timelineColor3":"0x2a605c",
-			"timelineColor":"0x00a096",
-			"timelineTreeOpened":"false",
-			"animationEnabled":"true"},
+		"dummyStageParentWidth":"550px",
 		"element_${_Silicon}":{
 			"timelineColor2":"0x1095d2",
 			"timelineColor3":"0x29647e",
@@ -72,11 +68,11 @@
 			"timelineColor":"0xffd46d",
 			"timelineTreeOpened":"true",
 			"animationEnabled":"true"},
-		"element_${_Iron}":{
-			"timelineColor2":"0x107faa",
-			"timelineColor3":"0x295a6d",
-			"timelineColor":"0x008dc8",
-			"timelineTreeOpened":"false",
+		"element_${_Neutron}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"timelineColor":"0x63599f",
+			"timelineTreeOpened":"true",
 			"animationEnabled":"true"},
 		"element_${__2Text}":{
 			"timelineColor2":"0xd35d6e",
@@ -102,18 +98,18 @@
 			"timelineColor3":"0x29647e",
 			"animationEnabled":"true",
 			"timelineColor":"0x00a9fa"},
-		"element_${__5Text}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
-			"timelineColor":"0xeedf79",
+		"element_${_Iron}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
+		"element_${__8Text}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4",
 			"timelineTreeOpened":"true",
 			"animationEnabled":"true"},
-		"element_${_Stage}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
-			"timelineColor":"0xeedf79",
-			"timelineTreeOpened":"false",
-			"animationEnabled":"false"},
 		"element_${__10Text}":{
 			"timelineColor2":"0x326a96",
 			"timelineColor3":"0x385063",
@@ -132,7 +128,12 @@
 			"timelineTreeOpened":"false",
 			"animationEnabled":"true",
 			"invisible":"false"},
-		"dummyStageParentHeight":"400px",
+		"element_${_Neon}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"true"},
 		"element_${_Helium}":{
 			"timelineColor2":"0x4fa275",
 			"timelineColor3":"0x456a55",
@@ -158,28 +159,28 @@
 			"timelineTreeOpened":"false",
 			"animationEnabled":"true"},
 		"defaultStageParentWidth":"550px",
-		"dummyStageParentWidth":"550px",
-		"element_${__8Text}":{
-			"timelineColor2":"0x1aa38f",
-			"timelineColor3":"0x2a6a61",
-			"timelineColor":"0x00bda4",
+		"element_${__5Text}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
 			"timelineTreeOpened":"true",
 			"animationEnabled":"true"},
-		"element_${_Neutron}":{
-			"timelineColor2":"0x5a558a",
-			"timelineColor3":"0x4a485e",
-			"timelineColor":"0x63599f",
-			"timelineTreeOpened":"true",
-			"animationEnabled":"true"}},
-	"TransitionIdCounter":"166",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79",
+			"timelineTreeOpened":"false",
+			"animationEnabled":"false"},
+		"dummyStageParentHeight":"400px"},
+	"TransitionIdCounter":"167",
 	"CompZoomFactor":"100",
 	"StageZoomFactor":"100",
 	"pixelsPerMs":"0.045145847531832",
-	"stage-Default Timeline_mark_ms":"-1",
-	"pref__general__GenerateSmoothTransitions":"false",
+	"PubChromeFrameInstallerPrompt":"none",
+	"pref__general__AutoKeyframeProperties":"false",
 	"usedBOM":"false",
 	"nextElementColorIndex":"9",
-	"stage-Default Timeline_playhead_ms":"0",
+	"stage-Default Timeline_playhead_ms":"19702",
 	"viewStartY":"0",
-	"PubChromeFrameInstallerPrompt":"none",
-	"PubUseChromeFrameInstaller":"false"}
+	"pref__general__GenerateSmoothTransitions":"false",
+	"stage-Default Timeline_mark_ms":"-1"}
